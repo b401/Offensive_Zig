@@ -5,3 +5,4 @@ This repository contains Zig implementations of security‑related techniques fo
 ## Tools
 
 - [Indirect Memory Writing](./indirect-memory-writing/)
+- [Basic DNS Client Code](./dns-client/)
